@@ -18,7 +18,7 @@ namespace UltimateBaseball
             Console.WriteLine("+-----------------------------------------------------+");
 
             Random random = new Random();
-            // test 
+             
             int[] numbers = new int[3];
             int index = 0;
             while(index < 3)
